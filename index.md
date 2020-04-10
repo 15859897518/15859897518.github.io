@@ -4,7 +4,7 @@
 
 <h3>Audio-technica</h3>
 
-<li>ATH-Mrs7</li>
+<li>ATH-Msr7</li>
 
 <table>
 <td>佩戴方式：头戴式</td>
@@ -18,4 +18,13 @@
 <td>抗阻：35ohm</td>
 
 <td>频响范围：4——50000Hz</td>
+</table>
+
+<li>ATH-M50</li>
+
+<table>
+
+<td>佩戴方式:头戴式</td>
+
+<td>用途功能：Hifi耳机，便携式耳机</td>
 </table>
