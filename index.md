@@ -7,17 +7,17 @@
 <li>ATH-Msr7</li>
 
 <table>
-<tr1>佩戴方式：头戴式</tr1>
+<tr>佩戴方式：头戴式</tr><br/>
 
-<tr1>用途功能：Hifi耳机，便携式耳机</tr1>
+<tr>用途功能：Hifi耳机，便携式耳机</tr><br/>
 
-<tr1>发声原理及单元直径：动圈单元/45mm</tr1>
+<tr>发声原理及单元直径：动圈单元/45mm</tr><br/>
 
-<tr1>灵敏度：100Db</tr1>
+<tr>灵敏度：100Db</tr><br/>
 
-<tr1>阻抗：35ohm</tr1>
+<tr>阻抗：35ohm</tr><br/>
 
-<tr>频响范围：4——50000Hz</tr>
+<tr>频响范围：4——50000Hz</tr><br/>
 </table>
 
 <li>ATH-M50</li>
