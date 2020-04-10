@@ -1,10 +1,11 @@
-<title1>音频设备详细参数参考</title1>
+<h1>音频设备详细参数参考</h1>
 
-<title2>热门品牌分类</title2>
+<h2>热门品牌分类</h2>
 
-<title3>Audio-technica</title3>
+<h3>Audio-technica</h3>
 
 <li>ATH-Mrs7</li>
+
 <table>
 <td>佩戴方式：头戴式</td>
 
