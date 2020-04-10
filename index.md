@@ -4,7 +4,7 @@
 
 <h3>Audio-technica</h3>
 
-<li>ATH-Msr7</li>
+#<li>ATH-Msr7</li>
 
 <table>
 <tr1>佩戴方式：头戴式</tr1>
@@ -20,7 +20,7 @@
 <tr3>频响范围：4——50000Hz</tr3>
 </table>
 
-<li>ATH-M50</li>
+#<li>ATH-M50</li>
 
 <table>
 
