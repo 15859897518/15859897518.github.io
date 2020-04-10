@@ -6,8 +6,7 @@
 
 <li>ATH-Msr7</li>
 
-<table>
-<tr>佩戴方式：头戴式</tr><br/>
+<table><tr>佩戴方式：头戴式</tr><br/>
 
 <tr>用途功能：Hifi耳机，便携式耳机</tr><br/>
 
@@ -17,13 +16,10 @@
 
 <tr>阻抗：35ohm</tr><br/>
 
-<tr>频响范围：4——50000Hz</tr><br/>
-</table>
+<tr>频响范围：4——50000Hz</tr></table><br/>
 
 <li>ATH-M50</li>
 
-<table>
-<tr>佩戴方式:头戴式</tr><br/>
+<table><tr>佩戴方式:头戴式</tr><br/>
 
-<tr>用途功能：Hifi耳机，便携式耳机</tr><br/>
-</table>
+<tr>用途功能：Hifi耳机，便携式耳机</tr></table>
