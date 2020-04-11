@@ -22,6 +22,8 @@
 
 <li>ATH-M50</li>
 
-<table><tr>佩戴方式:头戴式</tr><<br>
+<table><tr>佩戴方式:头戴式</tr><br/>
 
 <tr>用途功能：Hifi耳机，便携式耳机</tr></table>
+
+<tr>发声原理及单元直径：动圈单元/45mm</tr><br/>
