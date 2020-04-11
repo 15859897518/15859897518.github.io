@@ -20,6 +20,6 @@
 
 <li>ATH-M50</li>
 
-<table><tr>佩戴方式:头戴式</tr>
+<table><tr>佩戴方式:头戴式</tr><<br>
 
 <tr>用途功能：Hifi耳机，便携式耳机</tr></table>
