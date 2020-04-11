@@ -1,6 +1,6 @@
 <h1>音频设备详细参数参考</h1>
 
-<h2>热门品牌分类</h2>
+<h2>热门品牌</h2>
 
 <h3>Audio-technica</h3>
 
@@ -20,6 +20,6 @@
 
 <li>ATH-M50</li>
 
-<table><tr>佩戴方式:头戴式</tr><br/>
+<table><tr>佩戴方式:头戴式</tr>
 
 <tr>用途功能：Hifi耳机，便携式耳机</tr></table>
