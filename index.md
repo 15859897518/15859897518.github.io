@@ -1,10 +1,16 @@
-<h1>音频设备详细参数参考</h1>
+                                <h1>Leo的小兴趣！</h1>
 
-<h2>热门品牌</h2>
+<h2>买过的耳机：</h2>
 
-<h3>Audio-technica</h3>
+<li>Audio-technica ATH-CKB70</li>
 
-<li>ATH-Msr7</li>
+<li>Audio-technica Ls50li</li>
+
+<li>Audio-technica Ls200li</li>
+
+<li>Bose soundlink revolve</li>
+
+<li>Audio-technica ATH-Msr7b</li>
 
 <table><tr>佩戴方式：头戴式</tr><br/>
 
