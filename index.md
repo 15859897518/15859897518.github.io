@@ -1,4 +1,7 @@
-<h1>Leo的小兴趣！</h1>
+<Head>
+     <style>
+         body{font-size:100%}
+        p{font-size:2.5em}
 
 <h2>买过的耳机：</h2>
 
